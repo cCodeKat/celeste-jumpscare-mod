@@ -1,0 +1,12 @@
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\bin\Debug\net7.0\Jumpscare_Mod.deps.json
+c:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\bin\Debug\net7.0\Jumpscare_Mod.dll
+c:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\bin\Debug\net7.0\Jumpscare_Mod.pdb
+c:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\obj\Debug\net7.0\Jumpscare Mod.csproj.AssemblyReference.cache
+c:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\obj\Debug\net7.0\Jumpscare Mod.GeneratedMSBuildEditorConfig.editorconfig
+c:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\obj\Debug\net7.0\Jumpscare Mod.AssemblyInfoInputs.cache
+c:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\obj\Debug\net7.0\Jumpscare Mod.AssemblyInfo.cs
+c:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\obj\Debug\net7.0\Jumpscare Mod.csproj.CoreCompileInputs.cache
+c:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\obj\Debug\net7.0\Jumpscare_Mod.dll
+c:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\obj\Debug\net7.0\refint\Jumpscare_Mod.dll
+c:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\obj\Debug\net7.0\Jumpscare_Mod.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\Jumpscare Mod\Source\obj\Debug\net7.0\ref\Jumpscare_Mod.dll
